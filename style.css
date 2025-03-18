@@ -60,6 +60,12 @@ p {
     margin-bottom: 1rem;
 }
 
+img {
+    max-width: 30%;
+    height: auto;
+    margin-bottom: 1rem;
+}
+
 /* Footer */
 footer {
     background-color: #333;
